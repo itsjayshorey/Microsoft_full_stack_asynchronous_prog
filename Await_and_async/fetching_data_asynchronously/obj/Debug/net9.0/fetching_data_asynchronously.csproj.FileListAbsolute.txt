@@ -1,0 +1,15 @@
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.AssemblyInfoInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.AssemblyInfo.cs
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.csproj.CoreCompileInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.sourcelink.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\bin\Debug\net9.0\fetching_data_asynchronously.exe
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\bin\Debug\net9.0\fetching_data_asynchronously.deps.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\bin\Debug\net9.0\fetching_data_asynchronously.runtimeconfig.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\bin\Debug\net9.0\fetching_data_asynchronously.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\bin\Debug\net9.0\fetching_data_asynchronously.pdb
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\refint\fetching_data_asynchronously.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.pdb
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\fetching_data_asynchronously.genruntimeconfig.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\fetching_data_asynchronously\obj\Debug\net9.0\ref\fetching_data_asynchronously.dll

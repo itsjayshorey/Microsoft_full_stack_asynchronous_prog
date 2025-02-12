@@ -1,0 +1,15 @@
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\bin\Debug\net9.0\await_and_async.exe
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\bin\Debug\net9.0\await_and_async.deps.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\bin\Debug\net9.0\await_and_async.runtimeconfig.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\bin\Debug\net9.0\await_and_async.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\bin\Debug\net9.0\await_and_async.pdb
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.AssemblyInfoInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.AssemblyInfo.cs
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.csproj.CoreCompileInputs.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.sourcelink.json
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\refint\await_and_async.dll
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.pdb
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\await_and_async.genruntimeconfig.cache
+C:\Users\itsja\OneDrive\Desktop\Microsoft Full Stack\assignment_1_basics_of_coding\Await_and_async\await_and_async\obj\Debug\net9.0\ref\await_and_async.dll
